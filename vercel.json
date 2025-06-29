@@ -17,7 +17,6 @@
   ],
   "env": {
     
-    "VITE_SUPABASE_ANON_KEY": "@vite_supabase_anon_key",
     "SUPABASE_SERVICE_ROLE_KEY": "@supabase_service_role_key",
     "VAPID_PUBLIC_KEY": "@vapid_public_key",
     "VAPID_PRIVATE_KEY": "@vapid_private_key",
