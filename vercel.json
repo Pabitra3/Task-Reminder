@@ -15,7 +15,6 @@
       "destination": "/index.html"
     }
   ],
-
   "headers": [
     {
       "source": "/sw.js",
